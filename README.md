@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/sergiocouter">
   <img height = "160em" width = "1000em" src = "https://github-readme-stats.vercel.app/api?username=sergiocouter&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height = "160em" width = "1000em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocouter&layout=compact&langs_count=7&theme=vision-friendly-dark" />
+  <img height = "160em" width = "800em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocouter&layout=compact&langs_count=7&theme=vision-friendly-dark" />
 </div>
 
 <div style = "display: inline_block"> <br>
