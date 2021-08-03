@@ -1,9 +1,9 @@
 ### Olá , Meu nome é Sérgio Couter 
 
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=sergiocouter&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocouter&layout=compact&langs_count=7&theme=dark" />
+  <a href="https://github.com/sergiocouter">
+  <img height = "170em" src = "https://github-readme-stats.vercel.app/api?username=sergiocouter&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height = "170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocouter&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 <div style = "display: inline_block"> <br>
