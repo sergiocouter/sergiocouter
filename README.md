@@ -1,21 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E7B10A&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E7B10A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Sérgio+Couter;Sou+Desenvolvedor+Front-end;Utilizo+Html,+Css,+Javascript,+React;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+<p align="left"> 
+  Sou o Sérgio, 32 anos,graduado em Análise e desenvolvimento de sistemas.<br>
+  Atuo como <strong>QA Analyst</strong> na CrowdTest, realizando testes manuais e automatizados.
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiocouter&bg_color=000000&color=a47e3b&line=bf9742&point=e6b325&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="left">
+  🦄 Linguagens: <strong>Python</strong>, <strong>Javascript</strong>.
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E7B10A&size=35&center=true&vCenter=true&width=1000&lines=Tecnologias+:%29)](https://git.io/typing-svg)
+<p align="left">
+  💼 Ferramentas: <strong>Robot Framework</strong>, <strong>Selenium</strong>, <strong>Cypress</strong>.
+</p>
 
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD93D&labelColor=0D1117)&nbsp; 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp; <br>
-![Html5](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&labelColor=0D1117)&nbsp;
-![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&logoColor=F24C3D&labelColor=0D1117)&nbsp;
+<p align="left">
+  💌 Entre em contato comigo, será um prazer, ter uma conversa: ⤵️
+</p>
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E7B10A&height=120&section=footer"/>
-
+<p align="left">
+  <a href="sergiocouter@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/sergio-couter/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://contate.me/sergio_couter_whatsapp" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://beacons.ai/sergio_couter" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
